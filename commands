@@ -1,0 +1,6 @@
+apt install git -y
+which git
+git --version
+git init
+git status
+
