@@ -3,4 +3,7 @@ which git
 git --version
 git init
 git status
-
+git add commands
+git commit -m "message"
+git remote add origin  https://github.com/hjvikas/stage.git
+git origin push master
